@@ -4,7 +4,7 @@
 
 I'm an indie (more-than) developer from Parker, Colorado. I want to leave my footprint on this planet by helping the uprise of technology or at the very least help others learn about it.
 
-You can find more info about me on my <a href="https://pludo.dev">website</a>, I also have a <a href="https://youtube.com/pludo">YouTube</a>!
+You can find more info about me on my <a href="https://pludo.dev">website</a> 🤍
 
 
 ---
